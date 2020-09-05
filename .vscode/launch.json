@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "D:\\Personal\\SelfLearning\\Coursera\\JohnHpokinsUniv_HTML,CSS,JS\\Module2\\module2-solution\\index.html",
+            "url": "E:\\SUBJECTS\\Web development\\Coursera (John Hopkins)\\Assignment\\Learning\\module3-solution\\index.html",
             "webRoot": "${workspaceFolder}"
         }
     ]
